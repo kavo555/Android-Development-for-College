@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+H:\college year 4\Ubiqious computing\.metadata\.plugins\org.eclipse.jdt.core
+3356104010.index
+1284074322.index
+763330287.index
+2785255071.index
+4153009063.index
+3945593450.index
